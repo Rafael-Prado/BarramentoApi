@@ -10,10 +10,9 @@ Desenvolvimento de um MicroService  de consultas de dogs facts
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Projeto de de barramento)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [somente baixar e rodar os arquivos "DotNet run no visual studio code ou no visual studio")
+   * [Projeto de de barramento]
+   * [somente baixar e rodar os arquivos "DotNet run no visual studio code ou no visual studio"]
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Sem pré requisitos]
    * [DotNet.Core 5, Swagger, EPPlus licença desenvolvedor](#tecnologias)
 <!--te-->
