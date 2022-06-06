@@ -6,6 +6,7 @@ Desenvolvimento de um MicroService  de consultas de dogs facts
 - [x] Lendo Arquivo xlsx
 - [x] Gerando Arquivo xlsx
 - [ ] Validações 
+- [ ] Segurança
 
 Tabela de conteúdos
 =================
