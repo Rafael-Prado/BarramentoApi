@@ -20,7 +20,7 @@ Tabela de conteúdos
 
 ### Exemplo requisição
 {
-  "url": "https://www.dogfactsapi.ducnguyen.dev/api/v1/facts/?number=",
-  "caminhoArquivoInput": "D:/dogs/DogFacts.xlsx",
-  "caminhoArquivoOutput": "D:/dogs/DogFactsResult.xlsx"
+  * "url": "https://www.dogfactsapi.ducnguyen.dev/api/v1/facts/?number=",
+  * "caminhoArquivoInput": "D:/dogs/DogFacts.xlsx",
+  * "caminhoArquivoOutput": "D:/dogs/DogFactsResult.xlsx"
 }
